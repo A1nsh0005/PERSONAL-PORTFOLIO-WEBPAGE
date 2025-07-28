@@ -69,3 +69,9 @@ Project Management: Experience in organizing content clearly and efficiently.
 
 Final Deliverable
 The final deliverable is a responsive, single-page portfolio website that effectively showcases the developer’s profile and projects. It should be accessible, visually appealing, and easy to navigate on any device. This foundational project can be extended in the future with JavaScript interactivity, backend integration, or enhanced styling as the developer grows their skills.
+
+
+"Output":
+
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/def43c28-09fb-4ce0-b79f-84e5183b48ab" />
